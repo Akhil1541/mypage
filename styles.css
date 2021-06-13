@@ -1,0 +1,28 @@
+body {
+    background-color: #dbe6fd;
+  }
+  h1{
+    color: #293b5f;
+  }
+  h2{
+
+    color: #125d98;
+  }
+
+
+hr {
+    background-color: white;
+    border-style: dotted none none none;
+    border-color:grey;
+    border-width:10px;
+    width: 10%;
+  }
+
+/*class selectors
+*/
+.profile_pic{
+  border-radius: 100%;
+}
+.dp{
+  border-radius: 100%;
+}
